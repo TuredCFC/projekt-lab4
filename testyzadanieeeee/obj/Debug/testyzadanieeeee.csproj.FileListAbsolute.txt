@@ -1,0 +1,16 @@
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\obj\Debug\testyzadanieeeee.csproj.AssemblyReference.cache
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\obj\Debug\testyzadanieeeee.csproj.SuggestedBindingRedirects.cache
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\obj\Debug\testyzadanieeeee.csproj.CoreCompileInputs.cache
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\bin\Debug\xunit.runner.reporters.net452.dll
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\bin\Debug\xunit.runner.utility.net452.dll
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\bin\Debug\xunit.abstractions.dll
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\bin\Debug\testyzadanieeeee.dll
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\bin\Debug\testyzadanieeeee.pdb
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\bin\Debug\xunit.assert.dll
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\bin\Debug\xunit.core.dll
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\bin\Debug\xunit.execution.desktop.dll
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\obj\Debug\testyzadanieeeee.csproj.CopyComplete
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\obj\Debug\testyzadanieeeee.dll
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\testyzadanieeeee\obj\Debug\testyzadanieeeee.pdb

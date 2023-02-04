@@ -1,0 +1,15 @@
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\Zadanieeeeeeeeeeeeeeeeeeeeee\bin\Debug\net6.0\Zadanieeeeeeeeeeeeeeeeeeeeee.exe
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\Zadanieeeeeeeeeeeeeeeeeeeeee\bin\Debug\net6.0\Zadanieeeeeeeeeeeeeeeeeeeeee.deps.json
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\Zadanieeeeeeeeeeeeeeeeeeeeee\bin\Debug\net6.0\Zadanieeeeeeeeeeeeeeeeeeeeee.runtimeconfig.json
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\Zadanieeeeeeeeeeeeeeeeeeeeee\bin\Debug\net6.0\Zadanieeeeeeeeeeeeeeeeeeeeee.dll
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\Zadanieeeeeeeeeeeeeeeeeeeeee\bin\Debug\net6.0\Zadanieeeeeeeeeeeeeeeeeeeeee.pdb
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\Zadanieeeeeeeeeeeeeeeeeeeeee\obj\Debug\net6.0\Zadanieeeeeeeeeeeeeeeeeeeeee.csproj.AssemblyReference.cache
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\Zadanieeeeeeeeeeeeeeeeeeeeee\obj\Debug\net6.0\Zadanieeeeeeeeeeeeeeeeeeeeee.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\Zadanieeeeeeeeeeeeeeeeeeeeee\obj\Debug\net6.0\Zadanieeeeeeeeeeeeeeeeeeeeee.AssemblyInfoInputs.cache
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\Zadanieeeeeeeeeeeeeeeeeeeeee\obj\Debug\net6.0\Zadanieeeeeeeeeeeeeeeeeeeeee.AssemblyInfo.cs
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\Zadanieeeeeeeeeeeeeeeeeeeeee\obj\Debug\net6.0\Zadanieeeeeeeeeeeeeeeeeeeeee.csproj.CoreCompileInputs.cache
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\Zadanieeeeeeeeeeeeeeeeeeeeee\obj\Debug\net6.0\Zadanieeeeeeeeeeeeeeeeeeeeee.dll
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\Zadanieeeeeeeeeeeeeeeeeeeeee\obj\Debug\net6.0\refint\Zadanieeeeeeeeeeeeeeeeeeeeee.dll
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\Zadanieeeeeeeeeeeeeeeeeeeeee\obj\Debug\net6.0\Zadanieeeeeeeeeeeeeeeeeeeeee.pdb
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\Zadanieeeeeeeeeeeeeeeeeeeeee\obj\Debug\net6.0\Zadanieeeeeeeeeeeeeeeeeeeeee.genruntimeconfig.cache
+D:\lab4\Zadanieeeeeeeeeeeeeeeeeeeeee\Zadanieeeeeeeeeeeeeeeeeeeeee\obj\Debug\net6.0\ref\Zadanieeeeeeeeeeeeeeeeeeeeee.dll
